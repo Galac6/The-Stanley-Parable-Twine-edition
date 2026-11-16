@@ -28,5 +28,5 @@ If you want to run the project locally on your computer:
 ---
 
 Legal Disclaimer & Credits
-This is a non-commercial, fan-made adaptation created purely for tribute and educational purposes. It is not affiliated with, endorsed by, or sponsored by Galactic Cafe or Crows Crows Crows. The Stanley Parable, its characters, script elements, voice acting, music, and visual assets are the property of Galactic Cafe and Crows Crows Crows (Davey Wreden & William Pugh). If you enjoyed this tribute, please support the official release of [The Stanley Parable: Ultra Deluxe](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/).
+This is a non-commercial, fan-made adaptation created purely for tribute and educational purposes. It is not affiliated with, endorsed by, or sponsored by Galactic Cafe or Crows Crows Crows. The Stanley Parable, its characters, script elements, voice acting, music, and visual assets are the property of Galactic Cafe and Crows Crows Crows (Davey Wreden & William Pugh). If you enjoyed this tribute, please support the official release of [The Stanley Parable: Ultra Deluxe](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/) by playing the game (it might just be the best game oat).
 Made with [Twine](http://twinery.org).
