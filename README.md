@@ -10,7 +10,7 @@ You can play the game directly in your browser via GitHub Pages (no download req
 
 Play The Stanley Parable: Twine edition : [https://Galac6.github.io/The-Stanley-Parable-Twine-edition/](https://galac6.github.io/The-Stanley-Parable-Twine-edition/)
 
-Note: Make sure your browser's sound is enabled. If audio does not start automatically on the title screen due to browser autoplay policies, click anywhere on the page or advance to the first choice to unlock playback. Futhermore, to prevent visual glitches, you should dezoom to at least 80% of the original page.
+Note: Make sure your browser's sound is enabled and the page has sound and video authorizations. If audio does not start automatically on the title screen due to browser autoplay policies, click anywhere on the page or advance to the first choice to unlock playback. Futhermore, to prevent visual glitches, you should dezoom to at least 80% of the original page.
 
 ---
 
