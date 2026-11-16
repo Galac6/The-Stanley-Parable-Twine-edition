@@ -1,7 +1,10 @@
 The Stanley Parable: Twine edition, V1.0 (Interactive Fan Adaptation)
 
 This is mainly a personal project, aiming to learn the basics of Twine and Harlowe.
-An unofficial, interactive text-adventure adaptation inspired by The Stanley Parable, TSP HD remix and TSP Ultra-deluxe, built in Twine. (Harlowe, HTML, CSS and JS) Parts of this project were vibe-coded using models such as Gemini Flash, Gemini Pro, Gemini Hydrogen and Claude Sonnet 5.5. 
+
+An unofficial, interactive text-adventure adaptation inspired by The Stanley Parable, TSP HD remix and TSP Ultra-deluxe, built in Twine. (Harlowe, HTML, CSS and JS) 
+
+Parts of this project were vibe-coded using models such as Gemini Flash, Gemini Pro, Gemini Hydrogen and Claude Sonnet 5.5. 
 
 You can play the game directly in your browser via GitHub Pages (no download required):
 
