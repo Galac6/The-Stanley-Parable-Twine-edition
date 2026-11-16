@@ -1,9 +1,10 @@
 The Stanley Parable: Twine edition, V1.0 (Interactive Fan Adaptation)
 
-An unofficial, interactive text-adventure adaptation inspired by The Stanley Parable, TSP HD remix and TSP Ultra-deluxe, built in Twine (Harlowe, HTML, CSS and JS)
+This is mainly a personal project, aiming to learn the basics of Twine and Harlowe.
+An unofficial, interactive text-adventure adaptation inspired by The Stanley Parable, TSP HD remix and TSP Ultra-deluxe, built in Twine. (Harlowe, HTML, CSS and JS) Parts of this project were vibe-coded using models such as Gemini Flash, Gemini Pro, Gemini Hydrogen and Claude Sonnet 5.5. 
 You can play the game directly in your browser via GitHub Pages (no download required):
 
-Play The Stanley Parable: Twine edition : https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+Play The Stanley Parable: Twine edition : [https://Galac6.github.io/The-Stanley-Parable-Twine-edition/](https://galac6.github.io/The-Stanley-Parable-Twine-edition/)
 
 Note: Make sure your browser's sound is enabled. If audio does not start automatically on the title screen due to browser autoplay policies, click anywhere on the page or advance to the first choice to unlock playback. Futhermore, to prevent visual glitches, you should dezoom to at least 80% of the original page.
 
@@ -23,6 +24,6 @@ If you want to run the project locally on your computer:
 ---
 
 Legal Disclaimer & Credits
-This is a non-commercial, fan-made adaptation created purely for tribute and educational purposes. It is not affiliated with, endorsed by, or sponsored by Galactic Cafe or Crows Crows Crows. The Stanley Parable, its characters, script elements, voice acting, music, and visual assets are the property of Galactic Cafe and Crows Crows Crows (Davey Wreden & William Pugh). If you enjoyed this tribute, please support the official release of The Stanley Parable: Ultra Deluxe.
-(https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/)
-Made with Twine (http://twinery.org)
+This is a non-commercial, fan-made adaptation created purely for tribute and educational purposes. It is not affiliated with, endorsed by, or sponsored by Galactic Cafe or Crows Crows Crows. The Stanley Parable, its characters, script elements, voice acting, music, and visual assets are the property of Galactic Cafe and Crows Crows Crows (Davey Wreden & William Pugh). If you enjoyed this tribute, please support the official release of {
+[The Stanley Parable: Ultra Deluxe](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/).
+Made with [Twine](http://twinery.org).
